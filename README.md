@@ -11,7 +11,7 @@ found that I could consistently get odds somewhere between +600 and +2100 on Sup
 
 ## The Data
 
-I looked at historic NFL team statistical data from 2006 to 2022 to determine what makes a Superbowl Winner. I needed to see what the teams with the rings were doing right.
+I got all of my data from https://www.pro-football-reference.com/. I looked at historic NFL team statistical data from 2006 to 2022 to determine what makes a Superbowl Winner. I needed to see what the teams with the rings were doing right.
 The data included roughly 450,000 data points. It had over 25 different team statistics such passing yards per game, rushing touchdowns per game, defensive interceptions,
 and total yards given up in a season.
 
